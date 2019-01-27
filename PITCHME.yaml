@@ -1,0 +1,5 @@
+theme: white
+published: true
+highlight: vs
+transition: slide
+mousewheel: true
