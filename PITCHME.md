@@ -4,6 +4,9 @@
 
 ## Немного истории
 
+@snap[east sidebar]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VitalikButerinProfile.jpg/1049px-VitalikButerinProfile.jpg)
+
 Идея была предложена в конце 2013 г. (4 года после релиза Биткойна).
 
 Первый релиз - 30 июня 2015 г.
