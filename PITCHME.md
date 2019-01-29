@@ -4,9 +4,8 @@
 
 ## Немного истории
 
-@snap[west]
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VitalikButerinProfile.jpg/1049px-VitalikButerinProfile.jpg)
-@snapend
++++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VitalikButerinProfile.jpg/1049px-VitalikButerinProfile.jpg&position=right&size=50% 100%
+@title[Text + Image]
 
 @snap[east]
 Идея была предложена в конце 2013 г. (4 года после релиза Биткойна).
@@ -16,7 +15,7 @@
 Автор - Виталик Бутерин.
 
 На данный момент используется 4-я версия протокола.
-
+@snapend
 
 ---
 
